@@ -10,7 +10,7 @@ Remote in or setup up desktop access to your device
 Create a .service file inside your system and open with text editor of your choice in this case nano using this command
 
 ```bash
-sudo nano /etc/systemd/system/nameofservice.serivce
+sudo nano /etc/systemd/system/nameofservice.service
 ```
 
 ---
